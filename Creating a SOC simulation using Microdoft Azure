@@ -1,0 +1,44 @@
+Creating a SOC simulation using Microdoft Azure
+
+Introduction
+
+Prerequisites
+
+
+Steps to start Creating a SOC simulation with Azure
+
+1. create a recource group 
+
+
+
+2. create a Virtual Network 
+
+
+
+3. create a Virtual machine 
+
+
+
+4. create a Network Security Group  
+
+
+
+5. configure Log Forwarding into a central repository
+
+
+
+6. connect the repository to the SIEM (Microsoft Sentinal) 
+
+
+
+7. create the attack map
+
+
+
+
+
+
+
+
+
+
