@@ -2,8 +2,13 @@ Creating a SOC simulation using Microdoft Azure
 
 Introduction
 
-Prerequisites
+-Practical lab environment for simulating a Security Operations Center (SOC) using Microsoft Azure cloud services.
+The primary objective of this project is to provide a low-cost, 
+scalable environment to practice essential SOC skills in a live, cloud-based setting.
 
+Prerequisites
+1-Microsoft Azure Subscribtion
+2-Basic knowledge of Virtualization and Networking
 
 Steps to start Creating a SOC simulation with Azure
 
